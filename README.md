@@ -5,4 +5,4 @@
 - The images can be saved as a new folder or as a numpy file ( Check Docstring for details)
 - The query word can be changed to search for new images 
 - For each new query, a new folder will be created to save the images
-- 
+
